@@ -58,9 +58,7 @@ Special Thanks to - <a href="https://github.com/parkseyik">박세익 <img src="h
 
 https://user-images.githubusercontent.com/37966668/232360969-961bce36-2904-4a2a-bff8-55f712371490.mov
 
-**Sign Up** - 다양한 정규표현식(생년월일/YYYY-MM-DD, 계정/XXXX@XXXX.XX, 핸드폰 번호/XXX-XXXX-XXXXX 등)을 이용한 입력값 검사, 이후 통과시 백엔드에 해당 값들을 페이로드로 실어서 백엔드로 전송
-
-Checked with multiple regex validations(Birth/YYYY-MM-DD, account/XXXX@XXXX.XX, phone number/XXX-XXXX-XXXXX 등)
+**Sign Up** - Checked with multiple regex validations(Birth/YYYY-MM-DD, account/XXXX@XXXX.XX, phone number/XXX-XXXX-XXXXX 등)
 
 https://user-images.githubusercontent.com/37966668/232361004-cde3fa02-0019-4541-a264-1b11b847047c.mov
 
@@ -114,7 +112,6 @@ https://user-images.githubusercontent.com/37966668/232386906-437d0a4a-12de-4964-
 
 #### ** 7. Purchased Items / Writing/deleting review feature **<br>
 
-유저가 해당 상품을 구매한 이력이 있다면, 리뷰 남기기가 가능하고, 구매한 이력이 없다면 가능하지 않도록 구현. 
 If user has a record on the purchase of a specific item, writing/deleting review is possible. Once a user tries to leave a review to the items that the user haven't purchased, the user's action will receive an alert feedback, notifying that one has to purchase the item to leave a review.
 
 https://user-images.githubusercontent.com/37966668/232387897-96f1cba1-d256-44ee-8933-32db6449efbc.mov
